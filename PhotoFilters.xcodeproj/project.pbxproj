@@ -14,6 +14,7 @@
 		84C41AC31BD3C254005FA7CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84C41AC11BD3C254005FA7CC /* LaunchScreen.storyboard */; };
 		84C41ACE1BD3C254005FA7CC /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C41ACD1BD3C254005FA7CC /* PhotoFiltersTests.swift */; };
 		84C41AD91BD3C254005FA7CC /* PhotoFiltersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C41AD81BD3C254005FA7CC /* PhotoFiltersUITests.swift */; };
+		84C41AE71BD3C486005FA7CC /* 陈铮_933*933.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 84C41AE61BD3C486005FA7CC /* 陈铮_933*933.JPG */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		84C41AD41BD3C254005FA7CC /* PhotoFiltersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFiltersUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84C41AD81BD3C254005FA7CC /* PhotoFiltersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersUITests.swift; sourceTree = "<group>"; };
 		84C41ADA1BD3C254005FA7CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84C41AE61BD3C486005FA7CC /* 陈铮_933*933.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "陈铮_933*933.JPG"; path = "../../../陈铮_933*933.JPG"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		84C41AB71BD3C254005FA7CC /* PhotoFilters */ = {
 			isa = PBXGroup;
 			children = (
+				84C41AE61BD3C486005FA7CC /* 陈铮_933*933.JPG */,
 				84C41AB81BD3C254005FA7CC /* AppDelegate.swift */,
 				84C41ABA1BD3C254005FA7CC /* ViewController.swift */,
 				84C41ABC1BD3C254005FA7CC /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			files = (
 				84C41AC31BD3C254005FA7CC /* LaunchScreen.storyboard in Resources */,
 				84C41AC01BD3C254005FA7CC /* Assets.xcassets in Resources */,
+				84C41AE71BD3C486005FA7CC /* 陈铮_933*933.JPG in Resources */,
 				84C41ABE1BD3C254005FA7CC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
